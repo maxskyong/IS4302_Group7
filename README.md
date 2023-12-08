@@ -1,4 +1,3 @@
-Contract Deployment and Testing
 Our smart contracts can be deployed in the following manner for testing.
 1. Deploy BlackjackToken.sol first.
 2. Use the address of the deployed BlackjackToken contract as an argument to deploy the BlackjackGame.sol.
